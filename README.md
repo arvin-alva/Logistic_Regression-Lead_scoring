@@ -16,3 +16,7 @@ Logistic Regression model to predict whether a lead will be successfully convert
 <ul><li>Finding optimal value of the cut off</li></ul>
 <ul><li>Precision-Recall Trade off</li></ul>
 <ul><li>Model Building</li></ul>
+<br><br>
+<b>Explanation of the project:</b> https://youtu.be/SMshuioeMCA
+<br><br>
+<b>LinkedIn/Resume:</b> https://www.linkedin.com/in/arvinalva/
